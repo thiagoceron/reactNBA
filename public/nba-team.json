@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Chicago Bulls",
+    "location": "Chicago",
+    "logoUrl": "/assets/Chicago_Bulls.png",
+    "score": 444.05555555555554,
+    "history": "Os Chicago Bulls foram fundados em 1966 e ganharam fama mundial durante a década de 1990, quando Michael Jordan liderou a equipe a seis títulos da NBA. Os Bulls são conhecidos por sua marca de excelência e pela dinastia que formaram com Jordan, Scottie Pippen e o treinador Phil Jackson."
+  },
+  {
+    "name": "Los Angeles Lakers",
+    "location": "Los Angeles",
+    "logoUrl": "/assets/Lakers.png",
+    "score": 596.0714285714286,
+    "history": "Os Lakers, fundados em 1947, são uma das franquias mais bem-sucedidas da NBA, com 17 títulos. Eles tiveram grandes estrelas ao longo de sua história, incluindo Magic Johnson, Kareem Abdul-Jabbar, Kobe Bryant e Shaquille O'Neal. A rivalidade com os Celtics é uma das mais icônicas do esporte."
+  },
+  {
+    "name": "Golden State Warriors",
+    "location": "San Francisco",
+    "logoUrl": "/assets/Golden.png",
+    "score": 446.1,
+    "history": "Os Warriors foram fundados em 1946 e são conhecidos por seu estilo de jogo baseado em arremessos de longa distância. Eles ganharam seus primeiros campeonatos na década de 1940 e 1950, mas ganharam notoriedade recente após conquistar três títulos entre 2015 e 2018, liderados por Stephen Curry."
+  },
+  {
+    "name": "Boston Celtics",
+    "location": "Boston",
+    "logoUrl": "/assets/Boston.png",
+    "score": 428.2105263157895,
+    "history": "Os Celtics, fundados em 1946, são uma das equipes mais tradicionais da NBA, com 17 campeonatos. Eles foram pioneiros em integrar jogadores afro-americanos e são conhecidos por sua rivalidade com os Lakers. Jogadores lendários como Bill Russell, Larry Bird e Paul Pierce marcaram sua história."
+  },
+  {
+    "name": "Grizzlies",
+    "location": "Memphis",
+    "logoUrl": "/assets/Grizzlies.png",
+    "score": 494.3529411764706,
+    "history": "Os Grizzlies foram fundados em 1995 e mudaram-se para Memphis em 2001. A equipe ganhou destaque em meados da década de 2010 com um estilo de jogo físico, conhecido como 'Grit and Grind', que levou a franquia aos playoffs regularmente e à sua primeira aparição nas finais da Conferência Oeste em 2013."
+  },
+  {
+    "name": "Milwaukee Bucks",
+    "location": "Milwaukee",
+    "logoUrl": "/assets/Bucks.png",
+    "score": 421.5263157894737,
+    "history": "Os Bucks foram fundados em 1968 e ganharam seu primeiro título da NBA em 1971, liderados por Kareem Abdul-Jabbar. Após um longo hiato, a equipe voltou a ganhar o campeonato em 2021, com Giannis Antetokounmpo se tornando um dos maiores jogadores da liga."
+  },
+  {
+    "name": "Phoenix Suns",
+    "location": "Phoenix",
+    "logoUrl": "/assets/Suns.png",
+    "score": 602.6,
+    "history": "Os Suns foram fundados em 1968 e são conhecidos por seu jogo ofensivo rápido e emocionante. Embora tenham sido finalistas da NBA três vezes, ainda buscam seu primeiro título. Jogadores como Charles Barkley e Steve Nash deixaram uma marca indelével na história da franquia."
+  },
+  {
+    "name": "Miami Heat",
+    "location": "Miami",
+    "logoUrl": "/assets/Heat.png",
+    "score": 527.6,
+    "history": "Os Heat foram fundados em 1988 e rapidamente se tornaram uma força na NBA. Eles conquistaram três campeonatos, em 2006, 2012 e 2013, liderados por estrelas como Dwyane Wade, LeBron James e Chris Bosh. A equipe é conhecida por sua forte cultura de trabalho e defesa."
+  },
+  {
+    "name": "Philadelphia 76ers",
+    "location": "Philadelphia",
+    "logoUrl": "/assets/76ers.png",
+    "score": 500.875,
+    "history": "Os 76ers foram fundados em 1946 como Syracuse Nationals antes de se mudarem para Filadélfia. Eles ganharam três campeonatos, sendo o último em 1983, com uma equipe liderada por Moses Malone e Julius Erving. A equipe é conhecida por sua rica história e rivalidade com os Celtics."
+  },
+  {
+    "name": "Dallas Mavericks",
+    "location": "Dallas",
+    "logoUrl": "/assets/mavericks.png",
+    "score": 464.6666666666667,
+    "history": "Os Mavericks foram fundados em 1980 e ganharam seu primeiro título da NBA em 2011, liderados por Dirk Nowitzki. A equipe é conhecida por seu estilo de jogo ofensivo e pela inovação no uso de estatísticas avançadas para avaliar o desempenho dos jogadores."
+  },
+  {
+    "name": "Denver Nuggets",
+    "location": "Denver",
+    "logoUrl": "/assets/Nuggets.png",
+    "score": 0,
+    "history": "Os Nuggets foram fundados em 1967 e se destacaram no cenário da NBA ao longo das décadas. Eles ganharam notoriedade por sua capacidade de pontuar, mas ainda buscam seu primeiro título. A equipe tem uma base de fãs apaixonada e jogadores notáveis como Nikola Jokić, atual MVP da liga."
+  }
+]
